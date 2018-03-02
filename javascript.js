@@ -129,7 +129,7 @@ var checkWin = function () {
     }
 
     //special message
-    else if (winCount === 3) {
+    if (winCount === 3) {
         alert("Wow, you're really good at this. Rihanna would be proud -- SHINE BRIGHT LIKE A DIAMOND!");
     }
 
