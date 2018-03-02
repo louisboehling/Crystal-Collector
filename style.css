@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(rgb(76, 183, 216), white);
+}
+
+#header {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 72px;
+    color: white;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.panel-default>.panel-heading {
+    background: linear-gradient(rgb(255, 214, 81), rgb(255, 230, 0)); 
+}
